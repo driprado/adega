@@ -1,0 +1,4 @@
+{
+  "name": "GO ENV",
+  "dockerFile": "Dockerfile"
+}
